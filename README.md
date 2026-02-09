@@ -38,7 +38,7 @@ PS C:\> .\remediation_WN11-CC-000090.ps1
 ![Configure Registry Policy Processing Settings](Configure_registry_policy_processing2.png)
 
 ### Manual Verification - Group Policy Update
-![Force Update](WN11-CC-000090__force_update.png)
+![Force Update](WN11-CC-000090_force_update.png)
 
 ### Manual Verification - Registry Editor
 ![Registry Verification](WN11-CC-000090_verify_solution.png)
